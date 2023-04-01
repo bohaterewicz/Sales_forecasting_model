@@ -4,7 +4,7 @@
   
 **Important notice**:
 
-The final model, which went into production, was created using train/test split, autoregressive part (AR), as well as custom α for each UPC, so that the regularization strength was chosen based on a minimalization of RMSE. The presented model is a reduced version calculated on a synthetic dataset.
+The final model, which went into production, was created using train/test split, autoregressive part (AR), as well as custom α for each UPC, so that the regularization strength was chosen based on a minimalization of MAE. The presented model is a reduced version calculated on a synthetic dataset.
 
 **Project Overview:**
 
