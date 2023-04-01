@@ -20,6 +20,6 @@ For each unique UPC, a Poisson regression model was trained on the whole dataset
 
 **Conclusion:**
 
-The resulting model can predict future values of the target variable with high accuracy. L2 Regularization significantly reduced the error, reflected in over-inflated values, even when the total number of predictors is low.  
+The resulting model can predict future values of the target variable with high accuracy. L2 Regularization can significantly reduced the forecasting error, even when the total number of predictors is low.  
 
 
